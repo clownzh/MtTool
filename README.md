@@ -22,6 +22,8 @@
 改成前面的adb evices连接的名字
 最后 python main,py
 ![52c39c66138bcaf386614b4a4c8c0cb](https://user-images.githubusercontent.com/33055147/162479112-d7cd7ffe-dd6e-4aad-a1d9-b3d56419a400.png)
+![image](https://user-images.githubusercontent.com/33055147/162543482-f6158eb8-4d4f-4a11-b3fd-4654f7830d96.png)
+
 
 一定要耐心 这是捡漏的 建议长时间运行 
 如果帮助到 请回来star
