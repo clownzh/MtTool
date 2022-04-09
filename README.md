@@ -16,6 +16,8 @@
 ！[图片] (https://user-images.githubusercontent.com/33055147/162478531-4f162e52-9a01-482c-b4da-871d9f34d4f1.png)
 然后再执行
 ！[图片] (https://user-images.githubusercontent.com/33055147/162478643-d8f1e6f5-1ebc-4ca1-b978-b7b8d4c3cbfd.png)
+![15E4678999953189020EA54C8740464C](https://user-images.githubusercontent.com/33055147/162573531-ba78cb8b-3541-4c6f-9045-7eff356d282c.jpg)
+
 最后修改
 ![image](https://user-images.githubusercontent.com/33055147/162478766-43b3a7d9-7882-463e-9be9-47a7d9adf38c.png)
 ！[正在上传图片.png...] ()
